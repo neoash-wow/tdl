@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 tdl 是以 Go 撰寫的 Telegram CLI 工具（下載、上傳、轉發、匯出訊息/成員），透過 [gotd/td](https://github.com/gotd/td) 直接使用 MTProto，而非 Bot API。使用者文件位於 `docs/`（Hugo 站點，線上版 https://docs.iyear.me/tdl/）。
 
-## 常用指令
+## 常用指令                    
 
 ```bash
 go build                                         # 建置（CI 使用此指令）
