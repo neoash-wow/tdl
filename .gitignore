@@ -7,3 +7,6 @@ downloads
 tdl
 .hugo_build.lock
 .DS_Store
+
+# AI Agent
+CLAUDE.md
